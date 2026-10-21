@@ -1,6 +1,7 @@
 {
-  "name": "bruno-simon-folio-2019",
-  "version": "0.0.0",
+  "name": "janfdev-folio-3d",
+  "version": "1.0.0",
+  "description": "janfdev · 3D Interactive Driving Portfolio Experience (Adapted from Bruno Simon Folio 2019)",
   "type": "module",
   "scripts": {
     "dev": "vite",
